@@ -1,0 +1,9 @@
+In quicksort , it is required to get pivot element index through partition method.
+-- Here , i am letting last element as the pivot element.
+-- All the smaller elements to pivot elemet will be inserted or swapped in left side( before the pivot element).
+-- after that pivot element will be swapped becoz this will be its correct position to be inserted.
+-- same steps we will repeat using recursive calls of quickSort() method.
+-- first for low to pivot_element_index-1.
+-- Second for pivot_element_index to high.
+
+Worst case TC - > O(n2).

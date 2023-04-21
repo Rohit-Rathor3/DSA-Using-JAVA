@@ -1,0 +1,11 @@
+Definition :-  In Linear search technique of searching; the element is searched sequentially in the list.
+               This method can be performed on a sorted or an unsorted list (usually arrays).
+               
+Use:- To serach an element in array or iterable data.
+
+Time Complexity :- O(n).
+Auxiliary Space: O(1)
+
+KeyPoints :- we can also use vectors, arraylist to store and find data. Using obj.contains() method.             
+
+

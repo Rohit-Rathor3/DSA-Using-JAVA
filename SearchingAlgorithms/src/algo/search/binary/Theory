@@ -1,0 +1,8 @@
+Definition:- Binary Search is a searching algorithm used in a sorted array by repeatedly dividing the search interval in half.
+
+Use:- To serach an element in sorted array.
+
+Time Complexity: O(log n)
+Auxiliary Space: O(log n)
+
+Key ponits:- Array must be sorted.

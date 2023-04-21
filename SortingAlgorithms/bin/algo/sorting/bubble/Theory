@@ -1,0 +1,9 @@
+Bubble Sort:-  is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order. 
+               This algorithm is not suitable for large data sets as its average and worst-case time complexity is quite high.
+               
+Use :- To sort an array.
+
+Time Complexity: O(N2)
+Auxiliary Space: O(1) 
+
+key points:- We will fixed the largest/smallest element in its required position in every isteration. Not recommeended in large data sets.             
